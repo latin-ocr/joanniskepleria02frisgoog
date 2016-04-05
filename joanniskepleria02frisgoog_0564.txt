@@ -1,0 +1,61 @@
+xcv-xcnr. 553
+
+XCVII. Propositio. Si longius cava lens recesserit ab oculo,
+pauciora visibilia per cavam ad oculum venient.
+
+Sit oculus A, lens BC propior. Sit rursum oculos D, lens EF remotior
+
+et aequalis priori ΒΟ. Basis igitur EF aequalis est basi rig. 2³
+BC, latera vero DE, DF longiora lateribus AB, AC. ’
+Augulus igitur· BAC major angulo EDF. Refringantur
+jam radii et sint refracti BG, CII et EI, FK per XCIV,
+semper igitur plus divergnnt BG, CII quam -EI, FK. ’
+Sit enim ELF triangulum applicabilc ipsi BAC. Cum
+ergo a D et L descendant DE et LE in idem punctum
+E superficiei densioris, ii refractione facta in Ε se mutuo
+secabunt, et LE inferior evadet in EM superiorem: sic
+LI* in FN, per XI. Plus igitur EM, FN divergunt, quarn
+ΕΙ, FK, plus igitur et de hemisphaerio intercipiunt:
+qnare et BG, CII plns intercipiant a lente propinqua
+qnam ΕΙ, FK a lente remota refracti.
+
+XCVIII. Propositio. si longius cara lens re-
+cesserit ab oculn, minora repraesentantur visibilia, quan· a
+tisper lens non propinquior fit rei visibili quam oculo.
+
+Aequaliter enim ad sensnm cum remotione lentis decrescit ejus visibilis
+magnitudo per LXVII. At non aequaliter pauciora recipit visibilia longius
+distantia. Etsi enim per XCVII. semper pauciora recipit, illa tamen dimi-
+nutio engua est pars universorum, siquidem remota fuerint visibilia, prop-
+terea quod retractiones in majori remotione pene nihil mutantur, cnm et
+inclinationes (schemate 23) radiorum LE, DE dre. super lentem EF in
+majori remotione pene nihil mutentur. Plus igitur detrahitur de magnitudine
+aspectabili quam dc multitudine rerum per lentem visarum. Universae
+igitur minori angulo cernuntur: quare et singula.
+
+Aliter: Sit oculus Λ, radii rectilinei ABF, .ch angulum FAG com· ,
+prehendentes; ii secent lentem propinquam BC et remo-
+tam FG. Refringentur igitur extrorsum in B,C punctis
+per XCIV. Sint refracti BE, CD. Cum autem in FG
+majorem lentis portionem intercipiant Ar ct AG, major
+etiam erit retractio in FG quam in BC per XI, rel'racti
+igitur in F, G exeuntes divergent amplius, quam qui ex
+B, C exeunt, concurrent igitur curn illis. Concurrant et
+sit concursus E, D, et refracti hi ΒΕ, GD. Cum igitur
+FE, (Β) post concursum et sectionem liant exteriores
+qnam ΒΕ, CD, nullum igitur visibile (praeterquam cujus
+termini sint in ipsis punctis concursus Ε, D) tarn ex
+propinqua qnam ex remota lente simul eodem angulo
+BAC vel ΒΑΘ spectabitur. Nam visibilia remotiora
+quam ΕΙ), ut visibile KI, comprehensum refractis propin-
+quae lentis ΒΙ, CK, non comprehendetur refractis ΕΒ,
+GD eodem angulo FAG ad oculum venientibus, sed ι
+interioribus intra F, G, qui minori angulo ad A oculum
+
+qqqiunt, fflqrqua igitur apparent per remotiorem GF quam per propinquiorem
+per .
+
+XCIX. Propositio. Cava lens, si proxime oculum sit applicanda,
+
+ 
+

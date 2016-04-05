@@ -1,0 +1,60 @@
+caput V. 3. 248
+
+circuli ex centro F sint aequales arcus AB, ΒΟ,
+OD, et in GA diametro punctum E extra circuli circum-
+ferentiam. Connectantur A, B, Ο, D termini cum E et
+cum F centro et cum G p'uncto superficiei et inter se
+vicini, lineis AB, ΒΟ, OD. Dico ΑΕΒ majorem esse
+quam ΒΕΟ et huuc majorem qnam CED.
+
+Propositum quidem facile patet. Nam in F omnes
+anguli sunt aequales, iude versus G remotiores ab EA
+fiunt majores: donec in G fiant iterum aequales (Ε. ῙΠ, 21) .
+ergo post G versus E minores flunt qui ab EA remo·
+tiores. Causa est inclinatio AB, ΒΟ, CD linearum aequa- ''5:22“
+lium major in remotioribus, Continnetur enim ΕΟ in Η, “
+et em Β in EA, ΕΗ perpendiculares cadant Bl, ΒΗ.
+Erunt ΟΗΒ, BIA rectangula basibus CB, BA aequalibus. D ² Ίκ
+Dico primo EAB majorem esse quam ΗΟΒ. Probo sic: ‘
+GAB et GCB efficiunt summam 2 rectorum (E. 111, 22).
+Ergo GAB et complementum GCB ad semicirculum sunt
+aequales. Sed ECB major est quam GCB pars. Ergo
+ΗΟΒ complementum ECB minus est quam complementum
+GCB, hoc est quam EAB. Cum igitur EAB major sit
+quam ΗΟΒ, basibus rectangulorum aequalibus, ideoque
+rectangulis in eundem semicirculum quadrantibus, erit BI
+major quam BH. Ergo rectangula ΒΙΕ, ΒΗΕ ‚basi BE
+communi rursum in eundem semicirculum quadrabant,
+'eritque ideo BEA major quam ΒΕΗ vel BEC, quia illi
+longior BI subtenditur, huic ΒΗ brevior. Eodem modo
+et DEC minor esse probabitur quam CEB, dummodo
+teneas, GBE multo minorem esse quam GCE, quia GE
+huic et rectius et propius objicitur quam illi.
+
+Propositio IX. Radii paralleli sphaeram aqueam ingressi,
+quo remotiores ab axe, hoc citius cum axe concurrunt. In sche-
+mate in A, B, O, D puncta incidant paralleli axi AE, qui sint LA, ΜΒ,-
+NG. OD. Et sint primo refractiones inclinationibus proportionales, incli-
+nationes hic sunt LAF nulla, deinde MBF, NCF et ODF horizontalis vel
+mxima. Et sit ΜΒ, refractione una facta in B, concursus cnm axe· iu Ε
+ultra globum, dissimulata jam refractione altera, quae fit in posteriori parte
+superficiei globi. Cum ergo per lemma praemissum anguli ad Ε sint
+inaequales, aequales vero excessus inclinationum: non poterunt anguli ad
+Erespoudere proportione incidentiis, hoc est, si BEA (utpote complementum
+ΜΒΕ ad semicirculum) est angulus justus retractionis ΜΒ, tunc ΟΕΑ nou
+poterit esse angulus refractionis NG, quia inclinatio NCF dupla est ad
+MBF, CEA vero minor qnam duplus BEA. Quod si et ΝΟ refractiouis
+angulus duplus esse debet, augeri debet. Augetur vero ducta ΟΡ, ut secet
+EA axem aute E in P. Nam CPA interior aequalis est= exterioribus CEP,
+EGP, sicque major quam CEP vel ΟΕΑ. Patet erg0, si proportionales
+essent auguli refractionum angulis inclinationum, refractione una facta:
+tmc ex parallelis propiores perpendiculari remotius cum ea concursuras,
+remotiores a perpendiculari propiorem sphaerae facturas intersectionem.
+
+Jam vero si gemina fiat refracti0, accedat nempe altera in opposita
+parte superficiei, qnod fit in illis mediiS, quorum ita moderata est densitas,
+
+w*
+
+ 
+

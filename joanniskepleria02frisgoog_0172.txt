@@ -1,0 +1,62 @@
+Caput 11. 157
+
+imagines lucentis inversae: cujusmodi vides ad Met L, per punctaO
+et H transmissas. Cumque ΕΟΜ radius sit ex centro lucentis et medius
+omnium, qui se in Ο puncto secant, reliqui ergo ultra citraque hunc erunt,
+etqui ex Q puncto interiore, respectu fenestrae, descendit, sectione in Ο
+facta fit jam exterior. Ita de omnibns punctis dici potest. Quo pacto
+creabitur ambitus amplior qnam IKLM. At prius major erat haec IKLM
+figura, qnam FGHO fenestra, multo igitur major est haec jam dilatata
+ligura, qnam FGHO fenestra, quod erat demonstrandum.
+
+Prop. V. Figura radii in pariete confunditur ex lucentis
+inversa et fenestrae directa figura, et eis ad hunc modum situ
+respondet. Nam per corollarium tertiae figura lucentis inversa qnasi lina
+in lucente superficie circumducitur secundum terminos fenestrae, qnare sin-
+gulis punctis in pariete lineas describit, ‘lateribus fenestrae respondentes
+idque ex eadem parte. Vicissim per corollarium primae ligura fenestrae ,
+directa qnasi fixa in fenestra circumducitur in pariete, contrario ordine
+terminis lucentis (adminiculo tertiae), quare singulis punctis in pariete lineas
+describit lateribus lucentis oppositis ex adversa parte respondentes. Cum
+Igitur figuram factam, ubi angulos habet, terminent radii, qni ab extremis
+lucentis per extremos fenestrae angulos demittuntur et jam utrommque
+speciei motus sit ascriptus geometricus propter infinitatem multiplicatae
+speciei: patet terminos lucentis superficiei communicare cnm utraque figura.
+
+¹ Exemplo nobis esto schema. Angnlus enim lucentis Q nna cum tota
+imagine triangulari per Ο delapsus in X, translato puncto sectionis ex 0
+in Η, describit lineam XV respondentem lineae ΟΗ. Sic angulus N per
+Odelapsns in Y, translato 0 in F, describit lineam YR, et P per Η iu
+Τ delapsus, translato puncto intersectionis ex H iu G, describit lineam TS.
+st ΡΝ, quia aequaliter supra FG attollitur, delapsa et per FG traducta
+in pariete describit RS. Ita fere expressa est figura fenestrae.
+
+Rursum fingeE verticem pyramidis EKLMI e centro migrare in N,
+lixa pyramide in FGHO, tunc ergo angulus lML imaginis fenestrae cour·
+petet in Y, moto jam vertice ex N in Q angulus ·Μ describet lineam Yx,
+econtrario respondentem lineae RQ. Et si vertex est in Q, angulus MLK
+erit in V, translato vertice ex Q in P, L describet lineam VT, oppositam
+lucae PQ. Et tunc IK competet in Rs et K in S, translato denique
+vertice ex P in N, K-separabitur ab S, donec Iin R competat. Hoc facit
+aequidistantia laterum ΡΝ et F G oppositorum. ltaque si continuentur
+usqne ad communem sectionem RYXVTS perfecta erit figurae FGHO imago.
+· Sin Yx, VT, SR continuatae concurrant, similis ad unguem erit haec
+ligura lucenti Palm, sed inversa; quorum neutmm cum fiat, hinc adeo mis·
+cetur utraque.
+
+Corollarium Ι. Sequitur hinc, si similium utrinque figurarum latera et ex
+oppositis partibus erunt aequidistantia, figuram radii communem utriusque figuram
+perfecte imitaturam, situ vero fenestram.
+
+corollarium ll. Atei angulus nnius ex similibus lateri alterius ex opposito
+tljidatur, creabitur figura duplorum laterum, ut pro 2 trigonis sexangula, pro 2
+
+muratis ootangula. Ι
+corollarium lll. Cum ergo lucens et fenestra circuli figuras induunt, radius
+
+homere perfectum circulum describit. llabet enim circulus et latera et
+ornos quodammodo infinitos, quare duo, nt in l. corollario, aequidistantes
+dati et latera lateribus, angulos angulis, nt in secundo corollario opposita
+
+ 
+

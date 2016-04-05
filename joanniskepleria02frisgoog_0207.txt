@@ -1,0 +1,62 @@
+102 Paralipomsna in vitellianum.
+
+erit I centrum, et concursus asymptoton (Apoll. ll, 1). Ut autem sciatur
+angulus asymptoton, nota quod per Apoll. ΙΙ, 10., 11 DB, BE rostangnlnm
+ad Bc quadratum, sic DE transversum latus ad latus rectum3 et contra.
+Ut autern DE ad latus rectum, ita figura ad quadratum lateris recti. Ergo
+nt figura ad quadratum lateris recti, ita DB, BE rectangulum ad BC qna·
+dratum, et permutatim, ut figura ad DB, ΒΕ rectangulum, ita quadratum
+⁴ lateris recti ad quadratnm Bc. Sed figura est quadruplum rectanguli DB,
+ΒΕ, ergo st quadratum lateris recti est quadruplum quadrati BC, hoc est
+latus rectum est duplum BC. Hoc quidem semper verum est, et in omnibns
+
+tribus sectionibus. Est ergo jam latus rectum 6, et transversum DE 2,
+
+figura ergo 12, cujus quarta pars 3, radix ἓξὲξ-ἓξ. Ergo (Apoll. II, 1) 11-
+
+gulus inter asymptoton TI et Bl est 600. ²²)
+
+Jam igitur in triangulo HFX (demissa FX perpendiculari in EM) qnia
+FHX est 75⁰, erit HFX 15⁰. Qualinm ergo EX 100000, talium ΧΗ
+26795. Α1 simul per 37. primi Apollonii, nt transversum latus figurae ad
+rectum, sic IX, Xll rectangulum, ad XF quadratum. Divisa ergo tertia
+parte quadrati FX seu1100000 per Xll 26795, prodit IX 124401 qualium
+EX 100000. Sed per 21. primi Apollonii, ut rectum figurae latus ad
+transversum, sic quadratum EX ad rectangnlum DX, EX. Ergo rectan-
+gulnm DX, EX aequale est rectangulo IX, ΗΧ, 111 quadrati FX parti
+tertias. Itaque da quadrato XI auser tertiam partem quadrati XF, residui
+radix est lE semiaxis. Ergo hinc valor EX prodit 14209. Ε1 quia XMF
+111800, erit XFM 100. Propterea qualium XF 100000, erit XM 17633.
+Ergo EM altitudo quaesiti puncti 31842, ΙΕ uero 110192 dimidium axis,
+
+cui aequalis hoc loco demonstrata 1111 altitudo foci ΕΒ. Qualium ergo
+ΕΒ 10000, talium ΕΜ 28897. ²⁵)
+
+Invento puncto susceptae hyperboles, ex quo in superficiem egressa
+recta angulum 800 cum sagitta faciens in aliam repercuteretur, quaecum
+eodem axe angulum 500 11111, jam porro exploremus, quantus fiat FGM
+angulus, si FMG sit 700. Oportet EX perpendicularem tantam statuere,
+ut cnm XM rescissa concludat XMF angulum 700, 11 11 residua XE curn
+XD rectangulnm fiat aequale tertiae parti quadrati FX.
+
+Processus calculi difficultatem habet. Addenda linea DE 220384
+linoae EM 31842. Summa 252226 multiplicanda et in EM 31842 11 11
+tangentem anguli 200, 11111111 36397. Itemque haec 36397 11 11 EM
+31842 11 11 11 ipsam. Deinde 11111 ex 36397 11252226, item ex eodem
+36397 1131842 jungendi, nt pro quatuor sint tres lacti, horum omnium
+tripla constituantur. Abscindantur vero a triplo quadrati 36397 ultimi
+digiti quinque ad dextram et curtatus hic auferatur a 100000. Residuo
+divide triplum compositi, eodem et triplum 11111 ex 252226 etex 31842
+(auctum ad dextram 5 cyplnis) divide. Quo 11111 prioris quotientis dimi-
+dium quadra et ab hoc quadrato auser posteriorem quotientern: residui
+latus sive radicem quantitate dimidii prioris quadrati diminues, quod restat
+ostendit FX tantam in secunda hac constitutione, quantam lacere Jnssi
+sumus per hyperboles imperia. Fietque hoc processu FX 68550 11 XM
+talium particularum 24950. Nam curn esset EX 100000 erat ΧΜ-36397.
+Prius autem erat ΕΜ 31842. Η111 igitur ablata XM relinquit EX 6892,
+cui adjecta DE 220384, 1111111111 DX 227276, 11 haec in EX multi-
+
+plicata, quod nobis probationis loco est, tantundem producit, quantum 'ti
+
+ 
+

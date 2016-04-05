@@ -1,0 +1,67 @@
+Notae Editoria 813
+
+rei memoria quasi ex somno subest), discrepare magnetes nec eodem omnes vergere.
+Summa, si nibil in hoc puncto responderem, honestissima mihi esset excusatio, '
+quam temeraria responsione mihi inutilem reddo. Etenim, cum annum 26. rix
+egressus sim, mathesin vero nou maturius, quam ab anno 94. serio sim adortus
+et potissimum tempus in prognosticis, vanissimo labore sed necessario, consumserim
+hacteuus: intelliges, quam ego nou sim lectione historicorum ad arduas hujusmodi
+quaestiones instructus.
+
+Inda transit Keplcrus ad Prodromum (r. Vol. l, p. 62) ει sub finem addit: Ex Lauda·
+bergio (trigonometria) computavi declinationem magnetis exempli causa, eo quod
+ex relectione tuarum literarum intellexi, gratum tibi hoc futurum. Apponam autem
+calculum cum demonstratione, quia in calculo minus sum versatus, ut judicium de
+eo ex demonstratis ferre posses sicubi errassem. Sane nulla mea huic labori ‚
+utilitas est proposita. cum sciam, rectius haec a versatis in arte peti, quoram ·
+nou paucorum babes notitiam. Quidquid igitur hujus facio, non alio quam grati·
+tudinis studio facio. -
+
+Mercator in tabula septentrionis ut et in altera bisecti Terrarum orbis designat
+poli magnetis long. 1780, lat 160 30‘ a polo arctico. Idem in tabula Germaniae
+ει in omnibus generalibus Monachium refert sub long. 330 48’, lat. 480. ἵ
+
+ln hoc autem negotio necesse cst ad errorem vitandum Mercatorem nos sequi,
+quamvis Apianus ei litem iu longitudine morere possit. Haec si rere ita habeut,
+datur Δ PML, cognitorum duorum laterum LP‚ MP et angulo ab iis
+comprehenso. Est euim L locus, P polus, M magnetis punctum, LP
+complementum latitudinis, sc. 420, ΡΜ = 160 300 ex tabula geogra· Γ Π
+phica; LPM autem ita quaerendus: subtrahenda long. loci a long.
+magnetici poli, 1780 - 330 48--1440 12‘ angulus LPM Quaeritur
+APLM, quae est declinatio magnetis alinea meridiana. Ι
+
+Gontinuetur itaque LP in F, et demittatur ex M perpendicularis
+MF. igitur in Δ PFM angulus F rectus εει, ζ FPM est angulo
+LPM cognito residuus ad duos rectos, sc. 350 48’; latus vero PM
+cognitum est. Possunt itaque investigari latera FM, FP, quibus habitis
+dabitur Δ MFL, cognitis lateribus MF, FL et investigari poterit
+Δ FLM quaestus.
+
+Prima operatio pro latere ΡΜ. Radius: 10000000; latus PM: 16⁰ 30‘. ’
+
+sinus 2840153; Α FPM = 350 480, siu. 5849578.
+Prodit 1661370, sinus arcus 90 34’, qui est latus FM.
+Secunda operatio pro latere FP. Angulus FPM = 350 48, compl. = 540 12‘,
+siu. 8110638. Larus PM = 160 30¹, foecundus (h. s. tangam) ejus 2962135.
+Prodit 2402481 foecundus arcus 130 310, nempe lateris FP. Latus PF
+= 130 31’, latus PL = 420, latus igitur FL = 55⁰ 31‘. ’
+Tertia operatio pro angulo FLM Latus LF = 55⁰ 31’, sin. 8242909.
+Radius 10000000. Latus FM = 00 34’, foecundus 1685390.
+Prodit 2044642 foecundus. Ejus arcus 11⁰ 33’, nempe angulus FLM.
+· ltaque Monachii lingula magnete illita declinat a septentrionibus ad dextram
+110 33‘, si sc. vera suut quae supra posuimus.
+
+Porro disputat Scaliger et Cardenus, quorsum vergat magnes, num ad polarcm,
+an ad montes sub polo? Incidit 'mihi experimentum capiendi modus. Fiat ex
+quavis materia practer ferream circulus aequalissimus‚ in certo puncto circum-
+ferentiae ad centrum usque perforatus. Iu id foramen immitatur lingula ferrea
+magnete rite illinenda, sedin foramine libere pendeus praeterquam iu radice ad
+centrum. lbi enim figatur lingula. Prius autem quam illinatur magnete tam diu
+aequetur circulus, donec (super axe erectus) quomodocunque positus consistat neo
+unapars magis quam altera deorsum tondat Hoc sic parato affricctur lingula
+magnete et erigatur circulus super axe suo ita ut cum meridiano (seu urago curn
+illo seruoli, qui per polum magnetis transit) coincidet. Et pars, in qua est
+lingula, advolvatur septentrioni Existimo namque, si magnes ad stellam vergat,
+
+ 
+

@@ -1,0 +1,57 @@
+562 Dioptrico
+
+Dico etiam speciem fieri minorem per duas convexas invicem contIguas
+AB, CD, quam per unam AB. ³
+Nam quia una cava lens est utrimque, eandem Igitur causabitur radio·
+rum divergentiam. Eodem igitur intervallo aberit tam ab H concursu por
+unam AB, quam ab Ι concursu per utramque AB, CD causato, per CXI;
+sit haec distantia HN, IO, GP. At portio eadem ad dirnidium IR majorem
+habet proportionem quam ad duplum IlR. Propiores igitur annt AB, CD
+junctae ipsi Ο (vel EF illis aequipollens ipsi P iu suae semidiametri LG
+proportione), qnam sola AB ipsi N in suae ΗΠ. Minora Igitur visibilia
+*EF repraesentat per cavam P, quam AB sola per cavam N eandem, per
+LXXXIII; minora igitur et dnae AB, CD junctae, quarn una sola AB.
+CXXVI. Propositio. Unica superficies concava parvo cicculo in
+dissipandis seu disgregandis radiis fere aequipollet duabus superficiebus
+concavis ex circulo duplo majore desumtis.
+Probatur ex LXXIX. et III.
+CXXVII. Propositio. Duae lentes concavae Invicem contiguae paulo
+admodum a lente convexa longius distant, quam earum unica, ut distinctam
+efficiant visionem, sed speciem visibilis multum ac Iere duplo augent.
+Nam paralleli, quos lens convexa lecit convergere, sic convergendo
+incidentes in cavam, eu transita vitantes concursum rursum divergunt versus
+. oculum per CVII, supponitur enim instrumentum et in eo situs cavae lentis
+utilis. Jam vero altera cava inter oculum et priorem cavam interposita,
+qnae intercipiat divergentes, lacit eos ubi trajecerint divergere amplius per
+XCIV.. peccant igitur excessu divergentiae et confusa praestant per XCV.
+et XCIX. Augeri igitur oportebit contrariam ex convexa convergentiarn,
+ut vitia aequiponderent seque invicem tollant, per CIV. Augetur vero con-
+vergentia etex illa confusio, si longius discedat lens convexa ab oculo
+intra punctum concursus constituto, per LXXI. Ergo duae lentes cavae
+cum oculo sibi proxime adhaerenti longius abesse debent a convexa quam
+, unica earum. Vel per CXXVI. binae lentes cavae circulo majore aequi-
+valent unicae circulo minori. At per CX. cava parvo circulo longiusa
+lente distat, quam unica magno circulo cava. Ergo et binae magno circulo
+cavae plns distant quam' earum una sola.
+Dico et majora repraesentari visibilia ρετ duos quam per onam cavam
+proxime oculum. Demonstratur (nt priora) ex CXIII. et CXXVI.
+Parvula vero auctio distantiae magnam lucit accessionem ad magni·
+tudinem speciei, per CXIV. ’
+, CXXVIII. Propositio. In lente, quae aequa-
+Frg. ³²· libus circulis binc convexa est inde cava, omnes radii,
+ὓ ui perpendiculari intra corpus paralleli incedunt, aequa-
+itus angulis in utraque superficie refringuntur' et retracti
+
+retinent divergentiam aut parallelitatem eandem.
+
+Sit lens circulo BC, cujus centrum A, convexa
+circulo vero EF, cujus centrum D, concava. lunatae
+per centra recta DA, secans superficies perpendiculariter
+iu F, C. Ducatur ei parallela quaecunque, sitque ot.
+Demonstratm· Igitur geometrice praesertim a Ptolamo
+et astronomis, sIcut CF et ΒΕ sic CB et ΒΕ esst¹
+aequales. Proinde inclinatio BE ad utramque superficiem
+est eadem, hoo est ad tangentes superficiei iu DI
+
+ 
+

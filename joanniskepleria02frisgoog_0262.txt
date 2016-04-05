@@ -1,0 +1,64 @@
+caput v. s. 249
+
+Propositio XVII. Si oculus ultra terminum rig. ⁸⁰·
+intersectionum propositionis 15. a globo remo-
+
+ 
+
+veatur, quicquid post globum ultra terminum E ff*
+ultimum intersectionum, quas hae oculi radia· s
+tiones non parallelae faciunt, collocatur, ejus π’
+imago everso situ apparet in superficie globi.*) nn
+Sit EGHF globus, centro 1, DIA axiS, in eo T, Β fssq
+
+termini intersectionum parallelorum, S, M termini inter·
+sectionum non parallelorum. sed earum radiationum, quae ᾖ
+ex D veniunt, sitque D oculus, NP res visibilis. ille
+remotior quam TR, haec quam AM. Dico NP visum ζ
+iri eversam in ΡΗ superficie. Etenim, quia res est
+extra intersectionem, nulli igitur radii ad NP extrema
+ex D venient, qui non inter S, M sint intersecti. Inter-
+secent ii, qui extrema comprehendunt, sese in A, et
+sint DFEAP, DHGAN, igitur per 6. praemissam N
+putabitur in Η et P in F haerere. Sicque extrema situ
+commutato apparent. At quia etiam quae inter NP
+interjectae sunt parte-S, ultra M remotae sunt, videbuntur
+radiis inter DF, ΒΗ intermediis et sese per 9. prae-
+missam post A secabunt, intra tamen M terminum. Ita
+sese secantes, partes quoque interiores omnes evertent.
+Ut ita res tota everso situ appareat.
+
+Corollaria. 1. Patet hinc, oculo D longius etiam
+distante quam ΒΤ, si tamen NP fuerit inter SM, partim everso
+situ (in extremis nempe) visum iri, partim (et in intermediis)
+situ recto: et eandem etiam circularem, juxta X, 43. Vitel- l
+lionis: itaque confuse. . χ
+2. Quodsi sic manente oculo, NP sit etiam intra S ' M
+citimum intersectionis terminum, tota erecta videbitur. ἰ
+3. si vero oculus intra ΤΒ sit, intersectionibus in Ἡ -ἸΙῙ
+infinitum excurrentibus et aliquibus ex oculo radiationibus —23
+paralleliter refractis: si tunc res in axe fuerit sita et minor
+
+     
+
+infinito absit, terminus citimus est proxime globum in Ι. Itaque rursum dum
+radians a brevissima distantia in infinitam provenit, terminus hic citerior ab infinita
+ad brevissimam distantiam decrescit. Non potest autem fieri, ut causis continue
+crescentibus effectus interdum crescat, tum imminuatur iterum. Ergo plane initio
+minimum oportet esse, fine maximum. Collocato igitur radiante prope F, citimus
+terminus quidem est aliquis et longe a globo distans, sed tamen longius, imo
+infinito distans ab ultimo termino, qui jam uon est terminus, cum non terminet,
+sectionibus in infinitum excurrentibus. Non tamen hoc vult corollarium, quod
+radiante in F citimus sit remotior quam radiante in 1. Nam in 1 uterque citimus
+et ultimus in infinitum abeunt: in 1? ultimo jam vanescente, citimus tamen manet
+in certa distantia. Comparat igitur corollarium hic punctum F non cum punctis
+F, 1, sed cum se superioribus tertii generis.
+
+corollarium tertium est ex praemissis et oculariter declarari potest in sche-
+mate 80. Si enim FE et HG sint paralleli, erunt aequales 1D‚ IA, quia aequi-
+erurum ΓΒΗ, EAG, bases FB, EG aequales, et anguli D, A ob resi-actiones eas-
+dem in F, H, et Ε, G. Tunc igitur etiam IR ipsi IS aequalis erit (si Β, S,
+. citimi sint termini), et IT, IM (si T, M ultimi) et denique ΒΤ, SM aequales.
+
+¹⁶) Cogit me res ipsa distinguere inter intel-sectiones non parallelorum et·
+
